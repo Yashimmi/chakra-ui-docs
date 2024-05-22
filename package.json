@@ -44,7 +44,7 @@
     "github-slugger": "1.4.0",
     "highlight-words-core": "^1.2.2",
     "husky": "^8.0.2",
-    "lint-staged": "^13.0.3",
+    "lint-staged": "^15.2.4",
     "lodash.clonedeep": "^4.5.0",
     "lodash.get": "^4.4.2",
     "markdown-toc": "^1.2.0",

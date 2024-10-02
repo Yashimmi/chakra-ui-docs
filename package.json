@@ -23,7 +23,7 @@
   "dependencies": {
     "@chakra-ui/cli": "2.4.1",
     "@chakra-ui/icons": "2.1.1",
-    "@chakra-ui/props-docs": "2.2.1",
+    "@chakra-ui/props-docs": "2.3.0",
     "@chakra-ui/react": "2.8.2",
     "@chakra-ui/skip-nav": "2.1.0",
     "@chakra-ui/theme-tools": "2.1.2",
